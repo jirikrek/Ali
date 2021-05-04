@@ -40,6 +40,3 @@ image_angle = point_direction(x,y,instance_nearest(x,y,blackhole_obj).x,instance
 	
 }
 
-if x > room_width+200 or x < -200 or y > room_height+200 or y < -200 {
-//game_restart()
-}
